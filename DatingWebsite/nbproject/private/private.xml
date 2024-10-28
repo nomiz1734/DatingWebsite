@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/userAccount.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/SendEmailServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/FindLoveServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/profile.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ListLikeYouServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/BlockUser.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/userPhoto.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/editprofile.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/likedUser.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/home.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ChatListServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ListLikeServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/EmailPropety.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/chat.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/EmailService.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/WarningUser.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/DashboardServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/LogInServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/AllYourLiked.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/static/header.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/listlikeyou.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/SignUpServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/forgotpassword.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ChatWithServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/MatchServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/Report.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/report.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/dashboard.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ReportServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/likelist.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/matchlist.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/ChangePassword.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/signup.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/fillcode.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/changepassword.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/MatchListServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/EditProfileServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/Filter/LoginFilter.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/listReport.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/DeleteUser.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/reportManage.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/DAL/DBContext.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/login.jsp</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/controller/LogOutServlet.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/DAL/userDAO.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/src/java/model/IJavamail.java</file>
+            <file>file:/D:/Ky4/PRJ301/Assignment/temp2/DatingWebsite/web/findlove.jsp</file>
+        </group>
+    </open-files>
+</project-private>
